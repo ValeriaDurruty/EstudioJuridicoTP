@@ -26,7 +26,7 @@ Este proyecto fue realizado como Trabajo Práctico Final de la materia Sintaxis 
 1.  Asegúrate de tener Python instalado en tu sistema.
 2.  Clona este repositorio a tu máquina local:
     ```bash
-    git clone [https://github.com/ValeriaDurruty/EstudioJuridicoTP.git](https://github.com/ValeriaDurruty/EstudioJuridicoTP.git)
+    git clone [https://github.com/ValeriaDurruty/EstudioJuridicoTP.git]
     ```
 3.  Navega al directorio del proyecto:
     ```bash
