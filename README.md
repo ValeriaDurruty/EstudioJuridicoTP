@@ -1,4 +1,4 @@
-# EstudioJuridicoTP
+# EstudioJuridico
 
 ## Descripción
 
@@ -30,11 +30,11 @@ Este proyecto fue realizado como Trabajo Práctico Final de la materia Sintaxis 
 1.  Asegúrate de tener Python instalado en tu sistema.
 2.  Clona este repositorio a tu máquina local:
     ```bash
-    git clone [https://github.com/ValeriaDurruty/EstudioJuridicoTP.git]
+    git clone [https://github.com/ValeriaDurruty/EstudioJuridico.git]
     ```
 3.  Navega al directorio del proyecto:
     ```bash
-    cd EstudioJuridicoTP
+    cd EstudioJuridico
     ```
 4.  Ejecuta el archivo principal de la aplicación:
     ```bash
