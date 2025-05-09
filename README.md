@@ -14,6 +14,10 @@ Este repositorio contiene una aplicación desarrollada en Python para la gestió
 
 Este proyecto fue realizado como Trabajo Práctico Final de la materia Sintaxis y Semántica del Lenguaje en la facultad. El objetivo principal era aplicar los conceptos de abstracción de datos, utilizando una estructura de datos tipo Pila para la gestión de los expedientes y definiendo un Tipo Abstracto de Datos (TAD) para representar cada expediente.
 
+##   Información Adicional
+
+* Año de desarrollo: 2021
+
 ## Contenido del Repositorio
 
 * `app.py`: Archivo principal de la aplicación en Python. Contiene el menú interactivo y la lógica para interactuar con los TADs.
